@@ -1,2 +1,2 @@
-model_checkpoint_path: "2_50_13_ckpt"
-all_model_checkpoint_paths: "2_50_13_ckpt"
+model_checkpoint_path: "2_50_9_ckpt"
+all_model_checkpoint_paths: "2_50_9_ckpt"
